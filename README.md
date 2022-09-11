@@ -26,6 +26,6 @@ Olá, eu sou Fabricio Magnus!
 </div>
  <div align="center" width="100%">
    <a href="https://github.com/FabricioMagnus">
- <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioMagnus&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="190em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioMagnus&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
