@@ -5,10 +5,10 @@ Olá, eu sou Fabricio Magnus!
 - 📫 Você pode me encontrar no e-mail: fabricio.magnus92@outlook.com
 <br>
 <a style= "margin-top: 15px;"href="https://www.linkedin.com/in/fabricio-magnus-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br/>
+<br>
 
 Trabalho atualmente com estas ferramentas!
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
