@@ -14,7 +14,7 @@ Olá, eu sou Fabricio Magnus!
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fc--4.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Fc--4&tbnid=JZOvzVzwinFd3M&vet=12ahUKEwiz2b_W1o36AhXrtpUCHbZdA8EQMygAegUIARC8AQ..i&docid=KIZBnSPwbbkmUM&w=2222&h=2500&q=C%23%20imagens%20svg&ved=2ahUKEwiz2b_W1o36AhXrtpUCHbZdA8EQMygAegUIARC8AQ">
+ <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDa_VlegNmY8tHgWS9SyO0OsmWsl-qAMUYvw&usqp=CAU">
 </div>
 <br>
 
