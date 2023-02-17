@@ -39,8 +39,7 @@ Trabalho atualmente com estas ferramentas!
 </div>
   
   <br>
-  - name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.3.6
+
 
 
   
