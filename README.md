@@ -37,5 +37,10 @@ Trabalho atualmente com estas ferramentas!
    <a href="https://github.com/FabricioMagnus">
  <img height="230em" width="1800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioMagnus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <br>
+  - name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.3.6
+
 
   
