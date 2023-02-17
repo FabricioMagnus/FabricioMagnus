@@ -28,6 +28,14 @@ Trabalho atualmente com estas ferramentas!
  <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
 <br>
-
+<div align="center" style="display: flex, flex-direction:column">
+  <a href="https://github.com/FabricioMagnus">    
+  <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api?username=FabricioMagnus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ 
+ <div align="center">
+   <a href="https://github.com/FabricioMagnus">
+ <img height="230em" width="1800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioMagnus&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   
